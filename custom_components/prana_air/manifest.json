@@ -1,0 +1,16 @@
+{
+  "domain": "prana_air",
+  "name": "Prana Air",
+  "codeowners": [
+    "@DreadedLama"
+  ],
+  "config_flow": true,
+  "description": "A custom Home Assistant integration for Prana Air devices (AQI.in devices).",
+  "dependencies": [],
+  "documentation": "https://github.com/DreadedLama/Prana-Air/blob/main/README.md",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/DreadedLama/Prana-Air/issues",
+  "version": "0.1.0",
+  "homeassistant": ">=2026.3.0"
+}
