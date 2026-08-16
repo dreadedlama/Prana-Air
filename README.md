@@ -288,7 +288,7 @@ The integration also exposes:
 
 All entities belonging to the same meter are grouped under one Home Assistant device.
 
-<img src="screenshots/entities.png" alt="Prana Air entities in Home Assistant" width="800">
+<img src="./screenshots/entities.png" alt="Prana Air entities in Home Assistant" width="800">
 
 ## Device Data Format
 
